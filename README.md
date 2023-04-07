@@ -27,4 +27,4 @@ Here's a list of possible instructions:
 `NUM_INSTRUCTIONS` NUMBER OF POSSIBLE INSTRUCTIONS<br>
 
 <br>
-An example of code is present in the `main.cpp` file.
+An example of code is present in the `main.c` file.
